@@ -1,5 +1,5 @@
 # HR Analytics Dashboard
-## Introduction
+# Introduction
 
 This project focuses on building an interactive HR Analytics Dashboard using Power BI to analyze workforce demographics, employee retention, and attrition trends. The dashboard helps HR teams make data-driven decisions by identifying workforce patterns, high-risk segments, and key performance metrics.
 
